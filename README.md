@@ -1,4 +1,7 @@
-### Hi there 👋
+
+Soy una persona con sed de conocimiento, proactivo, perseverante, con capacidad de análisis, adaptabilidad y aprendizaje continuo. Estás características me han direccionado a incursionar en el mundo del desarrollo de software, formándome como desarrollador FullStack, que a partir de esta base estoy interesado en especializarme como FrontEnd.
+
+Soy Ingeniero ambiental, especialista en evaluación ambiental de proyectos, Auditor Interno en Sistemas de Gestión Integrados y ahora desarrollador. Como Ingeniero ambiental he alcanzando 8 años de experiencia profesional donde he aplicado conocimientos básicos propios de la ingeniería; esta experiencia me ha permitido adquirir habilidades de educación, manejo y coordinación de grupos, desarrollo de auditorias y análisis y definición de indicadores de eficiencia.
 
 <!--
 **dasava11/dasava11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
